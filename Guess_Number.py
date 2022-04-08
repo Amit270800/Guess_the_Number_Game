@@ -1,10 +1,5 @@
 # Guess the number
-"""
-Number of guesses - 9
-print no of guesses left
-no of guesses he took to finish
-game over
-"""
+
 import random
 
 n = random.randrange(100)
